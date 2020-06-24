@@ -1,2 +1,4 @@
 test
-add
+add 
+diff
+price
